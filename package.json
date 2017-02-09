@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "this is test project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vivek",
+  "license": "BSD-2-Clause"
+}
